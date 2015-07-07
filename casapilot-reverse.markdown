@@ -1,7 +1,7 @@
 ##TODO :
-[ ] fix splitter  - @alain
-[ ] fix converter  - @alain
-[ ] check ibridge result  - by Lisbonne
+[ ] fix splitter  - @alain  
+[ ] fix converter  - @alain  
+[ ] check ibridge result  - by Lisbonne  
 
 
 ##DONE :
