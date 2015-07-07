@@ -1,5 +1,5 @@
 2015, June 2nd
-* deploy on staging : FAIL  
+* deploy on staging : FAIL  - @alain
 
     problem 1: ibridge would not synchronize  
     problem 2: could not create via the API (validation errors)
