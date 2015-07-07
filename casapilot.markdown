@@ -1,3 +1,13 @@
+##TODO :
+[ ] fix splitter  - @alain  
+[ ] fix converter  - @alain  
+[ ] check ibridge result  - by Lisbonne  
+
+
+##DONE :
+
+
+
 2015, Avril
 * signed as a client - @lisbon-supply
 
