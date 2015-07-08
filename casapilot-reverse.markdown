@@ -1,11 +1,3 @@
-##TODO :
-[ ] fix splitter  - @alain  
-[ ] fix converter  - @alain  
-[ ] check ibridge result  - by Lisbonne  
-
-
-##DONE :
-
 2015, June 2nd
 * deploy on staging : FAIL  - @alain
 
