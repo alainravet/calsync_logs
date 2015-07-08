@@ -7,6 +7,12 @@ TODO :
 
 DONE :
 
+
+2015, June 3rd
+  * optimized the test (much FASTER - hea)
+  * deployed new version (1.2)
+  
+
 2015, June 2nd
   * deploy on staging : FAIL  - @alain
     problem 1: ibridge would not synchronize  
